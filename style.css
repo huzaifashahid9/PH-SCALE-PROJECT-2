@@ -4,65 +4,82 @@
 
 .bg-white{
     background-color: #ffffff;
+    margin: 15px;
 }
 
 .div-one{
     background-color: #0000ffad;
     color: #ffffff;
+    margin: 0px 15px;
 }
 .div-two{
     background-color: #0000ff9f;
     color: #ffffff;
+    margin: 0px 15px;
 }
 .div-three{
     background-color: #0000ff94;
     color: #ffffff;
+    margin: 0px 15px;
 }
 .div-four{
     background-color: #0000ff83;
-    color: #ffffff
+    color: #ffffff;
+    margin: 0px 15px;
+    
 }
 .div-five{
     background-color: #0000ff79;
     color: #ffffff;
+    margin: 0px 15px;
 }
 .div-six{
     background-color: #0000ff6b;
     color: #ffffff;
+    margin: 0px 15px;
 }
 .div-seven{
     background-color: #0000ff4d;
     color: #ffffff;
+    margin: 0px 15px;
 }
 .div-eight{
     background-color: #008000a4;
     color: #ffffff;
+    margin: 0px 15px;
 }
 .div-nine{
     background-color: #ff000038;
     color: #ffffff;
+    margin: 0px 15px;
 }
 .div-ten{
     background-color: #ff000062;
     color: #ffffff;
+    margin: 0px 15px;
 }
 .div-eleven{
     background-color: #ff000073;
     color: #ffffff;
+    margin: 0px 15px;
 }
 .div-twelve{
     background-color: #ff00007c;
     color: #ffffff;
+    margin: 0px 15px;
 }
 .div-thirteen{
     background-color: #ff000093;
     color: #ffffff;
+    margin: 0px 15px;
 }
 .div-fourteen{
     background-color: #ff00008f;
     color: #ffffff;
+    margin: 0px 15px;
 }
 .div-fifteen{
     background-color: #ff000093;
     color: #ffffff;
+    margin: 0px 15px;
 }
